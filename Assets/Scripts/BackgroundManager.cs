@@ -464,7 +464,31 @@ public class BackgroundManager : MonoBehaviour {
 		}
 	} 
 	
-	
+	//predicate used to empty the temporary list of dots
+	private static bool returnTrue(Dot dot) {
+		return true;
+	}
+
+	private GameObject InstantiateImage(GameObject img, Transform parent, String name, Vector3 position, Vector3 scale, Color color) {
+		GameObject instance = Instantiate (img) as GameObject;
+		instance.transform.SetParent (parent);
+		instance.transform.localPosition = position;
+		instance.transform.localScale = scale;
+		Image imgComp = instance.GetComponent<Image> ();
+		imgComp.color = color;
+		instance.name = name;
+		return instance;
+	}
+
+	private void HandleRectPosition(RectTransform imgTransform, int canvasWidth, int canvasHeight, int x, int y) {
+		imgTransform.SetSizeWithCurrentAnchors (RectTransform.Axis.Horizontal, ((float) canvasWidth/ (float) columns));
+		imgTransform.SetSizeWithCurrentAnchors (RectTransform.Axis.Vertical, ((float)canvasHeight/(float)rows));
+		imgTransform.pivot = pivotVector;
+		float posX = (float) (x * (canvasRect.rect.width / columns) + imgTransform.rect.width/2);
+		float posY = (float) ((-1) * (y * (canvasRect.rect.height / rows) + imgTransform.rect.height/2));
+		imgTransform.anchoredPosition3D = new Vector3(posX, posY, 0f);
+
+	}
 	
 	//currently not used
 	private Color findContrastingColor(Color color) {
