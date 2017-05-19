@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5ab5ff9ddb8d30042a89e4b58a7561ff
+timeCreated: 1488561965
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Simpleton (BRK)
+  fontNames:
+  - Simpleton (BRK)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

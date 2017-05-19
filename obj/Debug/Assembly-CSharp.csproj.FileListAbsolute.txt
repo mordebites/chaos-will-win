@@ -1,0 +1,60 @@
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEditor.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.xml
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEditor.xml
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\sandokan\Documents\Chaos will win\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\sandokan\Documents\Chaos will win\obj\Debug\Assembly-CSharp.dll
+C:\Users\sandokan\Documents\Chaos will win\obj\Debug\Assembly-CSharp.pdb
+C:\Users\sandokan\Documents\Chaos will win\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\obj\Debug\Assembly-CSharp.dll
+C:\Users\Simone\Desktop\Chaos will win\Chaos will win\obj\Debug\Assembly-CSharp.pdb
